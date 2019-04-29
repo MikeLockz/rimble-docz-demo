@@ -1,0 +1,25 @@
+{
+  "name": "docz-example-basic",
+  "version": "1.0.4",
+  "license": "MIT",
+  "scripts": {
+    "dev": "docz dev",
+    "build": "docz build"
+  },
+  "dependencies": {
+    "@rimble/connection-banner": "^1.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "rimble-ui": "^0.7.1",
+    "styled-components": "^4.2.0"
+  },
+  "devDependencies": {
+    "docz": "^1.0.4",
+    "docz-theme-default": "^1.0.4"
+  },
+  "resolutions": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
